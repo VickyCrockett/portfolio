@@ -1,0 +1,34 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+#gameContainer {
+    width: 600px;
+    height: 400px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    width: 60px;
+    height: 100px;
+    margin: 5px;
+    display: inline-block;
+    background-color: #ddd;
+    border: 2px solid transparent;
+}
+
+.card.selected {
+    border-color: #000;
+}
