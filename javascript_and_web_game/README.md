@@ -3,7 +3,7 @@
 
  To play the game open index.html
 
- This game was created in 1 hour from a blank repository by using a GPT to increase productivity.
+ The initial prototype of this game was created in 1 hour from a blank repository by using a GPT to increase productivity.
 
  The initial proof of concept prototype is working.
 For a list of known issues, or to report your own, please see the [Issues](https://github.com/VickyCrockett/super_sets/issues) section of this repository.
